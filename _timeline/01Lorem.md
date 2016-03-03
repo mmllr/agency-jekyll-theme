@@ -1,6 +1,6 @@
 ---
 title: "2015"
-subtitle: "Jippi"
+subtitle: "Lorem"
 image: about/1.jpg
 ---
-Laber Sülz!
+Lorem ipsum dolor

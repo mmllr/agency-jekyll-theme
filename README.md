@@ -5,22 +5,29 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
-###Portfolio 
+###Portfolio
 
-Portfolio projects are in '/_posts'
+Portfolio projects are in '/_portfolio'
 
 Images are in '/img/portfolio'
 
-###About
+###Timeline
 
-Images are in '/img/about/'
+Timeline items are in '_timeline'
 
 ###Team
 
-Team members and info are in '_config.yml'
+Team members and info are in '_team'
 
 Images are in '/img/team/'
 
+### Overview
+
+Overview items are in '_overview'
+
+### Downloads
+
+Downloads are in '_downloads'
 
 # Demo
 

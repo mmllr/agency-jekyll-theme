@@ -5,26 +5,27 @@ baseurl: ""
 title: Awesome Title
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-copyright: Copyright &copy; Markus Müller 2016
-heading: "Awesome"
-subheading: "Yeah!"
-start: "Los gehts"
+copyright: Copyright &copy; User Name 2016
+heading: Awesome
+subheading: Welcome!
+start: Lets start
 language: en
+navigation-hint: Toggle Navigation
 
 collections:
   - portfolio
   - team
   - timeline
-  - services
+  - overview
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/m_mlr
+    url: https://twitter.com/
   - title: github
-    url: https://github.com/mmllr
+    url: https://github.com/
   - title: facebook
-    url: https://www.facebook.com/cantatasapp
+    url: https://www.facebook.com/
 
 # Build settings
 markdown: kramdown
