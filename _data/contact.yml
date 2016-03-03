@@ -1,0 +1,10 @@
+---
+heading: Contact Us
+subheading: Lorem ipsum dolor sit amet consectetur.
+name: Markus Müller
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+phone: 123-345
+footer: Blabla
+---

@@ -1,0 +1,14 @@
+<!-- Clients Aside -->
+    <aside class="downloads">
+        <div class="container">
+            <div class="row">
+                {% for download in site.data.downloads %}
+                <div class="col-md-3 col-sm-6">
+                    <a href="{{ download.url }}">
+                        <img src="img/logos/{{ download.img }}" class="img-responsive img-centered" alt="{{ download.description }}">
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </aside>
